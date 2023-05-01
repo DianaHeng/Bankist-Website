@@ -77,7 +77,9 @@
 ![4](https://user-images.githubusercontent.com/82561944/235447142-8747abd6-0f78-4ce0-820b-338c399e1556.png)
 
 <h3 align="center"> Footer Section </h3>
- 
+
+![6](https://user-images.githubusercontent.com/82561944/235447835-3a796ab2-1f91-400b-be27-5d4ed507d117.png)
+
 ![5](https://user-images.githubusercontent.com/82561944/235447148-9533768d-4e0a-46ec-91a6-f685a00ddd3b.png)
 
  
